@@ -1,0 +1,124 @@
+
+/* COGS3 studyBuddy specific styles go here. */
+
+.navbar{
+  padding:0 0 4.75rem;
+  background-color:#065020;
+}
+
+.navbar-brand{
+  font-family:'Gerogia';
+  font-size: 2.5rem;
+  font-weight: bold;
+  background-color:#065020;
+}
+
+.nav-item{
+  padding:0 20px;
+  background-color:#065020;
+}
+
+.nav-link{
+ font-family:'Gerogia'; 
+ font-size: 1.4rem;
+ background-color:#065020;
+}
+
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+.title-image{
+  width:45%;
+  height:100%;
+  transform:rotate( 20deg);
+  position: absolute;
+}
+
+
+#features{
+  padding: 4% 10%;
+  background-color:white;
+  position: relative;
+  z-index: 1;
+}
+
+.feature-box{
+  text-align:center;
+  padding: 3%;
+}
+
+.icon{
+  color:rgba(108, 181, 212, 0.808);
+  margin-bottom:2.5rem ;
+}
+
+.icon:hover{
+  color:hsl(149, 87%, 27%);
+
+}
+
+#testimonials{
+  text-align:center;
+  background-color:#065020;
+  color:white
+
+}
+
+.carousel-item{
+  padding: 7% 10%;
+}
+
+.testimonial-image{
+  width:5%;
+  border-radius: 20%;
+  margin:10px;
+
+}
+
+#press{
+  background-color:#065020;
+  text-align: center;
+}
+
+.press-logo{
+ width: 10%;
+ margin: 20px 20px 50px;
+}
+
+/*Pricing Section*/
+
+#pricing{
+  padding:100px;
+  text-align: center;
+}
+
+.pricing-header{
+  color:#032f11;
+}
+
+.pricing-column{
+  padding: 3% 2%;
+}
+
+/*call to action section*/
+#cta{
+  background-color:#065020;
+  color: white;
+  padding: 7% 15%;
+}
+
+.cta-heading{
+  font-family:'Gerogia';
+  font-weight: bold;
+  font-size: 3.5rem ;
+  line-height: 1.5;
+}
+
+/*footer section*/
+#footer{
+  padding:7% 15%;
+  text-align: center; 
+}
+
+
